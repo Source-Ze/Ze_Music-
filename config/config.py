@@ -17,8 +17,8 @@ from pyrogram import filters
 load_dotenv()
 
 # Get it from my.telegram.org
-API_ID = int(getenv("API_ID", "11371179"))
-API_HASH = getenv("API_HASH", '9ba892aa7ac568ab8094f609f8dca656')
+API_ID = int(getenv("API_ID", "21627756"))
+API_HASH = getenv("API_HASH", 'fe77fbf0cae9f7f5ece37659e2466cf1')
 
 ## Get it from @Botfather in Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
@@ -44,7 +44,7 @@ MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
 
 # Your User ID.
 OWNER_ID = list(
-  map(int, getenv("OWNER_ID", "").split())) + [5593884330]
+  map(int, getenv("OWNER_ID", "").split())) + [6509622797]
  # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
