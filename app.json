@@ -1,5 +1,5 @@
 {
-    "name": "𝐙𝐄 • 𝐒𝐎𝐔𝐑𝐂𝐄 🔱",
+    "name": "𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
     "logo": "https://telegra.ph/file/73f9dd795b22c7cb670d6.jpg",
     "keywords": [
@@ -40,7 +40,7 @@
       },  
       "BOT_USERNAME": {
         "description": "حط هنا يوزر البوت بدون @  .",
-        "value": "",
+        "value": "reshtybot",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -49,38 +49,38 @@
         "required": false
       },
       "MUSIC_BOT_NAME": {
-        "description": "حط اسم البوت انجلش كابيتال زيي - Ze.",
-        "value": "Leader",
+        "description": "حط اسم البوت انجلش كابيتال زيي - MODY.",
+        "value": "BARLOO",
         "required": true
       },
       "NAME_BOT": {
-        "description": "حط اسم البوت ب العربي زي الـقائـد .",
-        "value": "الـقائـد",
+        "description": "حط اسم البوت ب العربي زي ارنوب .",
+        "value": "ارنوب",
         "required": true
       },
       "OWNER": {
         "description": "حط هنا يوزر المطور منغير علامه @ .",
-        "value": "",
+        "value": "ww_2_2",
         "required": true
       },
       "OWNER_USER": {
         "description": "حط هنا يوزر المطور بعلامه @ .",
-        "value": "",
+        "value": "@UP_UO",
         "required": true
       },
       "OWNER_ID": {
         "description": "حط هنا ايدي المطور  .",
-        "value": "",
+        "value": "5934060011",
         "required": true
       },
       "IMG_DEV1": {
         "description": "حط لينك صورة المطور  .",
-        "value": "",
+        "value": "https://telegra.ph/file/2b901e8bb301a9dd3416a.jpg",
         "required": true
       },
       "IMG_BOT1": {
         "description": "حط لينك صورة البوت .",
-        "value": "",
+        "value": "https://telegra.ph/file/2b901e8bb301a9dd3416a.jpg",
         "required": true
       },
       "STRING_SESSION": {
@@ -100,13 +100,12 @@
       },
       "LOG_GROUP_ID": {
         "description": "حط ايدي جروب البوتات وارفع البوت والحساب المساعد مشرف الاول .",
-        "value": "-
-",
+        "value": "-1001967964536",
         "required": true
       },
       "START_IMG_URL": {
         "description": "Telegraph Image URL For Start Command",
-        "value"",
+        "value": "https://telegra.ph/file/73f9dd795b22c7cb670d6.jpg",
         "required": true
       },      
       "UPSTREAM_REPO": {
