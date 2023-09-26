@@ -57,9 +57,9 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("V_P_N_8")
-                await self.one.join_chat("Help_MonZer_7_P")
-                await self.one.join_chat("V_P_N_8")
+                await self.one.join_chat("UI_XB")
+                await self.one.join_chat("UI_OS")
+                await self.one.join_chat("UI_XB")
             except:
                 pass
             assistants.append(1)
@@ -79,9 +79,9 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("V_P_N_8")
-                await self.two.join_chat("Help_MonZer_7_P")
-                await self.two.join_chat("V_P_N_8")
+                await self.two.join_chat("UI_XB")
+                await self.two.join_chat("UI_OS")
+                await self.two.join_chat("UI_XB")
             except:
                 pass
             assistants.append(2)
@@ -110,9 +110,9 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("V_P_N_8")
-                await self.three.join_chat("Help_MonZer_7_P")
-                await self.three.join_chat("V_P_N_8")
+                await self.three.join_chat("UI_XB")
+                await self.three.join_chat("UI_OS")
+                await self.three.join_chat("UI_XB")
             except:
                 pass
             assistants.append(3)
@@ -141,9 +141,9 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("V_P_N_8")
-                await self.four.join_chat("Help_MonZer_7_P")
-                await self.four.join_chat("V_P_N_8")
+                await self.four.join_chat("UI_XB")
+                await self.four.join_chat("UI_OS")
+                await self.four.join_chat("UI_XB")
             except:
                 pass
             assistants.append(4)
@@ -172,9 +172,9 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("cV_P_N_8")
-                await self.five.join_chat("Help_MonZer_7_P")
-                await self.five.join_chat("V_P_N_8")
+                await self.five.join_chat("D_X_IX")
+                await self.five.join_chat("UI_OS")
+                await self.five.join_chat("UI_XB")
             except:
                 pass
             assistants.append(5)
