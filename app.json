@@ -1,7 +1,7 @@
 {
-    "name": "𝘾𝙍 • 𝙎𝙊𝙐𝙍𝘾𝙀",
+    "name": "𝐙𝐄 • 𝐒𝐎𝐔𝐑𝐂𝐄 🔱",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/1a38e52936d7007199c78.jpg",
+    "logo": "https://telegra.ph/file/73f9dd795b22c7cb670d6.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -49,7 +49,7 @@
         "required": false
       },
       "MUSIC_BOT_NAME": {
-        "description": "حط اسم البوت انجلش كابيتال زيي - Leader.",
+        "description": "حط اسم البوت انجلش كابيتال زيي - Ze.",
         "value": "Leader",
         "required": true
       },
