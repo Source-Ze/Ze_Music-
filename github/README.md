@@ -1,14 +1,14 @@
-<h2 align="centre">⸢ 𝘾𝙍 • 𝙎𝙊𝙐𝙍𝘾𝙀 ⸥.</h2>
+<h2 align="centre">⸢ 𝐙𝐄 • 𝐒𝐎𝐔𝐑𝐂𝐄 🔱 ⸥.</h2>
 
 <p align="center">
   <img src="https://graph.org/file/37e2cb00bd4bbad685a22.jpg">
 </p>
 
-<h3>⸢ 𝘾𝙍 • 𝙎𝙊𝙐𝙍𝘾𝙀 ⸥</h3>
+<h3>⸢ 𝐙𝐄 • 𝐒𝐎𝐔𝐑𝐂𝐄 🔱 ⸥</h3>
 
-- جميع الحقوق محفوظه لدي سورس كريستين
+- جميع الحقوق محفوظه لدي سورس زد إي
 
-- chat etalee [𝘚𝘖𝘜𝘙𝘊𝘌 𝘓𝘌𝘈𝘋𝘌𝘙 𖣒 • 𝙎𝙊𝙐𝙍𝘾𝙀](https://t.me/V_P_N_8) (𝘚𝘖𝘜𝘙𝘊𝘌 𝘓𝘌𝘈𝘋𝘌𝘙 𖣒 v1)
+- chat etalee [𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱 𖣒 • 𝙎𝙊𝙐𝙍𝘾𝙀](https://t.me/UI_XB) (𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱 𖣒 v1)
 - Python (3.10+)
 
 ### اوامر التشغيل 🛠
@@ -64,7 +64,7 @@ shikhar@MacBook~ $ bash start
 
 ## 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹 
 
-## ⸢ 𝘾𝙍 • 𝙎𝙊𝙐𝙍𝘾𝙀 ⸥
+## ⸢ 𝐙𝐄 • 𝐒𝐎𝐔𝐑𝐂𝐄 🔱 ⸥
 
 ## Support Updates 
 
