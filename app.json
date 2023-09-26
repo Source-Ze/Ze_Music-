@@ -105,7 +105,7 @@
       },
       "START_IMG_URL": {
         "description": "Telegraph Image URL For Start Command",
-        "value"",
+        "value": "",
         "required": true
       },      
       "UPSTREAM_REPO": {
