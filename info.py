@@ -2,7 +2,7 @@ from pyrogram import *
 from pyrogram.types import *
 
 
-log_chat = int(-1001848724837)
+log_chat = int(-1001967964536)
 token = "5814568892:AAFBaqXPWgLTX5KjQgwaKYNmGZteknI5Smc"
 
 Main_developer_keyboard = ReplyKeyboardMarkup([
