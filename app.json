@@ -40,7 +40,7 @@
       },  
       "BOT_USERNAME": {
         "description": "حط هنا يوزر البوت بدون @  .",
-        "value": "reshtybot",
+        "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -49,38 +49,38 @@
         "required": false
       },
       "MUSIC_BOT_NAME": {
-        "description": "حط اسم البوت انجلش كابيتال زيي - MODY.",
-        "value": "BARLOO",
+        "description": "حط اسم البوت انجلش كابيتال زيي - ZE.",
+        "value": "ZE",
         "required": true
       },
       "NAME_BOT": {
-        "description": "حط اسم البوت ب العربي زي ارنوب .",
-        "value": "ارنوب",
+        "description": "حط اسم البوت ب العربي زي كارولين .",
+        "value": "كارولين",
         "required": true
       },
       "OWNER": {
         "description": "حط هنا يوزر المطور منغير علامه @ .",
-        "value": "ww_2_2",
+        "value": "",
         "required": true
       },
       "OWNER_USER": {
         "description": "حط هنا يوزر المطور بعلامه @ .",
-        "value": "@UP_UO",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
         "description": "حط هنا ايدي المطور  .",
-        "value": "5934060011",
+        "value": "",
         "required": true
       },
       "IMG_DEV1": {
         "description": "حط لينك صورة المطور  .",
-        "value": "https://telegra.ph/file/2b901e8bb301a9dd3416a.jpg",
+        "value": "",
         "required": true
       },
       "IMG_BOT1": {
         "description": "حط لينك صورة البوت .",
-        "value": "https://telegra.ph/file/2b901e8bb301a9dd3416a.jpg",
+        "value": "",
         "required": true
       },
       "STRING_SESSION": {
@@ -100,12 +100,12 @@
       },
       "LOG_GROUP_ID": {
         "description": "حط ايدي جروب البوتات وارفع البوت والحساب المساعد مشرف الاول .",
-        "value": "-1001967964536",
+        "value": "",
         "required": true
       },
       "START_IMG_URL": {
         "description": "Telegraph Image URL For Start Command",
-        "value": "https://telegra.ph/file/73f9dd795b22c7cb670d6.jpg",
+        "value"",
         "required": true
       },      
       "UPSTREAM_REPO": {
