@@ -11,7 +11,6 @@
     "telegram-bot",
     "pyrogram"
     ],
-    "stack": "container",
     "env": {
       "API_ID": {
         "description": "حط هنا الايبي ايدي",
@@ -40,7 +39,7 @@
       },  
       "BOT_USERNAME": {
         "description": "حط هنا يوزر البوت بدون @  .",
-        "value": "reshtybot",
+        "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -100,7 +99,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "حط ايدي جروب البوتات وارفع البوت والحساب المساعد مشرف الاول .",
-        "value": "-1001613226619",
+        "value": "-1001967964536",
         "required": true
       },
       "START_IMG_URL": {
