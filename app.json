@@ -1,5 +1,5 @@
 {
-    "name": "𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱",
+    "name": "🔱 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
     "logo": "https://telegra.ph/file/73f9dd795b22c7cb670d6.jpg",
     "keywords": [
@@ -40,47 +40,47 @@
       },  
       "BOT_USERNAME": {
         "description": "حط هنا يوزر البوت بدون @  .",
-        "value": "",
+        "value": "reshtybot",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "حط هنا كود المونجو .",
-        "value": "mongodb+srv://bot_vambir:Al2552001@cluster0.heabj.mongodb.net/vambir_bot?retryWrites=true&w=majority",
+        "value": "",
         "required": false
       },
       "MUSIC_BOT_NAME": {
-        "description": "حط اسم البوت انجلش كابيتال زيي - ZE.",
-        "value": "ZE",
+        "description": "حط اسم البوت انجلش كابيتال زيي - KAROLIN.",
+        "value": "",
         "required": true
       },
       "NAME_BOT": {
         "description": "حط اسم البوت ب العربي زي كارولين .",
-        "value": "كارولين",
+        "value": "",
         "required": true
       },
       "OWNER": {
         "description": "حط هنا يوزر المطور منغير علامه @ .",
-        "value": "",
+        "value": "UP_UO",
         "required": true
       },
       "OWNER_USER": {
         "description": "حط هنا يوزر المطور بعلامه @ .",
-        "value": "",
+        "value": "@UP_UO",
         "required": true
       },
       "OWNER_ID": {
         "description": "حط هنا ايدي المطور  .",
-        "value": "",
+        "value": "6509622797",
         "required": true
       },
       "IMG_DEV1": {
         "description": "حط لينك صورة المطور  .",
-        "value": "",
+        "value": "https://telegra.ph/file/dd0b38f25d4ae546e4cbe.jpg",
         "required": true
       },
       "IMG_BOT1": {
         "description": "حط لينك صورة البوت .",
-        "value": "",
+        "value": "https://telegra.ph/file/2756aff8fa6d13c543d03.jpg",
         "required": true
       },
       "STRING_SESSION": {
@@ -100,17 +100,17 @@
       },
       "LOG_GROUP_ID": {
         "description": "حط ايدي جروب البوتات وارفع البوت والحساب المساعد مشرف الاول .",
-        "value": "",
+        "value": "-1001613226619",
         "required": true
       },
       "START_IMG_URL": {
         "description": "Telegraph Image URL For Start Command",
-        "value": "",
+        "value": "https://telegra.ph/file/1a6f92c3d69a9f4fa6b7c.jpg",
         "required": true
       },      
       "UPSTREAM_REPO": {
         "description": "سيبها زي مهيا .",
-        "value": "git clone https://github.com/o0ooo0oo/arab1",
+        "value": "git clone https://github.com/Source-Ze/Ze_Music-",
         "required": true
       },
       "UPSTREAM_BRANCH": {
@@ -128,12 +128,6 @@
           },
           {
               "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
-          }
-      ],
-      "formation": {
-          "worker": {
-              "quantity": 1,
-              "size": "free"
           }
       },
       "stack": "container"
