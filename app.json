@@ -109,7 +109,7 @@
       },      
       "UPSTREAM_REPO": {
         "description": "سيبها زي مهيا .",
-        "value": "git clone https://github.com/Source-Ze/Ze_Music-",
+        "value": "git clone https://github.com/o0ooo0oo/arab1",
         "required": true
       },
       "UPSTREAM_BRANCH": {
